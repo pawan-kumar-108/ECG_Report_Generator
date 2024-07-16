@@ -2,6 +2,8 @@
 
 This project is made to analyze the ECG paper and generate the report based on the outcome of the analysis done by the Gemini model.
 
+LLM: **Gemini 1.5 Flash**
+
 This Streamlit application allows you to upload an ECG image, generate a detailed ECG report, and download the report as a Word document. The report includes patient information, clinical information, ECG technical details, findings, interpretation, and recommendations.
 
 ## Features
