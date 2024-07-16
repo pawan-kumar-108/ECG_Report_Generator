@@ -74,6 +74,7 @@ requirements.txt: all the necessary libraries to pip install in your venv.
 
 ## Example Report
 The generated ECG report includes the following sections:
+
 **(Note: It depends on the nature of ECG paper and the number of details. Details which are not relevant are removed in the report.)**
 
 Patient Information
